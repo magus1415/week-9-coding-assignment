@@ -1,0 +1,7 @@
+nav a:hover {
+    border-bottom: 2px solid white;
+    border-left: 0cap;
+    padding: 6px 0;
+    width: fit-content;
+}
+
