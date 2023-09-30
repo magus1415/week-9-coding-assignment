@@ -1,3 +1,5 @@
+
+/* This is for our nav bar, to underline it */
 nav a:hover {
     border-bottom: 2px solid white;
     border-left: 0cap;
@@ -5,6 +7,7 @@ nav a:hover {
     width: fit-content;
 }
 
-.img-rounded {
+/* for our logo */
+.logo-rounded {
     border-radius: 5px;
 }
